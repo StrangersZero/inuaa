@@ -14,7 +14,8 @@ Accounts = [
     {'username': '000000003', 'password': '000000', 'name': '3',
      'data': {'area': '江苏省+南京市+江宁区', 'province': '江苏省', 'city': '南京市'}},  # 3
     {'username': '000000004', 'password': '000000', 'name': '4',
-     'data': {'area': '江苏省+南京市+江宁区', 'province': '江苏省', 'city': '南京市'}}   # 4
+     'data': {'area': '江苏省+南京市+江宁区', 'province': '江苏省', 'city': '南京市'}},  # 4
+    {"if in school": 1}
 ]
 
 with open("data1.json", "w") as fp:
