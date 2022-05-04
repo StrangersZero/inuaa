@@ -1,7 +1,7 @@
 # coding    :utf-8
 # @Time     :2022/5/4 20:55
 # @Author   :张子捷
-# @File     :demo.py
+# @File     :dumpjson.py
 # @Software :PyCharm
 import json
 Accounts = [
